@@ -1,0 +1,12 @@
+{
+    "current_version": 215,
+    "dependencies": "clearblade,log,globals,qLib",
+    "logging_enabled": "false",
+    "name": "_requestDeviceData",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "_requestDeviceData.js"
+}
