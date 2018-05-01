@@ -1,0 +1,10 @@
+{
+    "current_version": 117,
+    "dependencies": "clearblade,log,qLib,globals",
+    "logging_enabled": "false",
+    "name": "_clearMessageQueues",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "_clearMessageQueues.js"
+}
