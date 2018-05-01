@@ -1,0 +1,18 @@
+{
+    "event_definition": {
+        "def_keys": [
+            "collectionId",
+            "collectionName",
+            "itemId"
+        ],
+        "def_module": "Data",
+        "def_name": "ItemUpdated",
+        "visibility": true
+    },
+    "key_value_pairs": {
+        "collectionId": "d2aa92ae0bc0d8f6c9edbabae606",
+        "collectionName": "device_data_historian"
+    },
+    "name": "device_data_update",
+    "service_name": "device_data_historian"
+}
