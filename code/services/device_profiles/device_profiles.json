@@ -1,0 +1,13 @@
+{
+    "current_version": 99,
+    "dependencies": "clearblade,log,globals,qLib",
+    "logging_enabled": "true",
+    "name": "device_profiles",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "device_profiles.js"
+}
