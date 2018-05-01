@@ -1,0 +1,9 @@
+{
+    "columns": [
+        {
+            "ColumnName": "device_attributes",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
