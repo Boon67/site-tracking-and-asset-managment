@@ -1,0 +1,14 @@
+{
+    "architecture": "linux386",
+    "deploy_command": "",
+    "description": "",
+    "logs_command": "journalctl -u clearblade.service -n 100",
+    "name": "edgeAdapter",
+    "os": "",
+    "protocol": "",
+    "start_command": "",
+    "status_command": "./status.sh",
+    "stop_command": "",
+    "undeploy_command": "",
+    "version": 13
+}
