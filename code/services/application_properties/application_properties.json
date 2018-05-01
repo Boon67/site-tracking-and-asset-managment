@@ -1,0 +1,14 @@
+{
+    "current_version": 149,
+    "dependencies": "",
+    "logging_enabled": "false",
+    "name": "application_properties",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "application_properties.js"
+}
