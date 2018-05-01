@@ -1,0 +1,32 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "b8f287ae0bb29cddf79bb2cad61f",
+    "items": [],
+    "name": "alerts",
+    "permissions": {
+        "Administrator": 7,
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "alertname",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "alertvalue",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
