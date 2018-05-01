@@ -1,0 +1,193 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "8c9ea2aa0bf4dde89bf9b4d7e747",
+    "items": [
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "0a223f48-fa61-439b-8ee2-a71edb69e45a",
+            "lat": 38.986944644,
+            "lng": -94.705531202,
+            "name": "Switzer Rd"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "1a64f9aa-6907-45f5-b06d-7b5fa25f9cb3",
+            "lat": 38.869148563,
+            "lng": -94.806645118,
+            "name": "E Dennis Ave"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "24728554-0265-436e-b23e-62053c76ef7e",
+            "lat": 39.022228943,
+            "lng": -94.692807173,
+            "name": "Johnson Dr"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "30149cc3-1b32-41c4-a134-8507765a1cc5",
+            "lat": 38.898959305,
+            "lng": -94.78542348,
+            "name": "Int 18_90"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "4014b02c-2113-497f-899e-92ad1eb2ab59",
+            "lat": 38.993578333,
+            "lng": -94.699523054,
+            "name": "W Frontage Rd"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "6362d3e2-328d-4376-bdd4-4fed1c09eee3",
+            "lat": 38.993578333,
+            "lng": -94.699523054,
+            "name": "Int 10_54"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "6f1888c8-9f23-44e5-9e4c-649c9ce9ed09",
+            "lat": 39.011312373,
+            "lng": -94.697506033,
+            "name": "W 65th St"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "8e10ee4f-c999-4db8-9786-b1d9e9dee73c",
+            "lat": 38.962155579,
+            "lng": -94.737669431,
+            "name": "Noland Rd"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "9174e063-f89b-411d-8c08-5ab52c78985d",
+            "lat": 38.927004801,
+            "lng": -94.758671127,
+            "name": "Charlie crossover"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "b42dc56c-9379-487c-91a9-e38b2aa1d1ff",
+            "lat": 38.960061623,
+            "lng": -94.742234551,
+            "name": "Pflumm"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "c375421b-429c-4b2e-ab2c-4013bec5f946",
+            "lat": 39.024512765,
+            "lng": -94.691927408,
+            "name": "Control Point 8_26"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "d856c9a2-ed22-4399-8cfe-86715c250bf4",
+            "lat": 38.98400911,
+            "lng": -94.712515675,
+            "name": "Nieman Rd"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": null,
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": false,
+            "item_id": "d8da1fe3-775c-4da5-9ab1-b47c83c23ff5",
+            "lat": 38.811048735,
+            "lng": -94.81588801,
+            "name": "W 175 th"
+        },
+        {
+            "device_type": "modbus1",
+            "edgeid": "piEdge1",
+            "icon": "https://www.clker.com/cliparts/q/y/S/n/A/V/green-pin.svg",
+            "isconnected": true,
+            "item_id": "f672f659-67ae-418b-bab1-65b355f1c23c",
+            "lat": 38.840445112,
+            "lng": -94.814123117,
+            "name": "W 159 St"
+        }
+    ],
+    "name": "locations",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "lat",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "lng",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "isconnected",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "edgeid",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
