@@ -1,0 +1,10 @@
+{
+    "current_version": 59,
+    "dependencies": "clearblade,http,qLib",
+    "logging_enabled": "false",
+    "name": "testLight",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "testLight.js"
+}
