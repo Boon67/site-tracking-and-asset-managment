@@ -1,0 +1,13 @@
+{
+    "current_version": 30,
+    "dependencies": "clearblade,log,qLib,globals",
+    "logging_enabled": "false",
+    "name": "filterCrossings",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "filterCrossings.js"
+}
