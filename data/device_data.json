@@ -1,0 +1,56 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "bec9bcad0bcab3a5818bf494f840",
+    "items": [
+        {
+            "coils": "[false,false,false,false]",
+            "deviceid": "cb18290d-ad75-45f9-855f-d7685b22d5de",
+            "holding_registers": null,
+            "input_registers": "[6876,34595,25983,36523]",
+            "inputs": "[true,false,false,true]",
+            "item_id": "dc2cb36f-c1da-4c48-986c-147cfe4182c9",
+            "timestamp": "2018-04-27T16:28:41.589Z"
+        }
+    ],
+    "name": "device_data",
+    "permissions": {
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "coils",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "inputs",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "input_registers",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "deviceid",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "holding_registers",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
