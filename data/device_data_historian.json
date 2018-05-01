@@ -1,0 +1,17 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "d2aa92ae0bc0d8f6c9edbabae606",
+    "items": [],
+    "name": "device_data_historian",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        }
+    ]
+}
