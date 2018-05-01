@@ -1,0 +1,66 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "82aca0ac0b96c9bab6a28e9a91c001",
+    "items": [
+        {
+            "category": "Bungalow",
+            "display_attributes": "[{\"name\":\"Battery 1\"},{\"name\":\"Battery 2\"},{\"name\":\"Battery 3\"}]",
+            "item": "Battery Bank",
+            "item_id": "08f9fb04-ccf1-427a-a746-bc6f73c3345c",
+            "type": "Battery"
+        },
+        {
+            "category": "Bungalow",
+            "display_attributes": "[{\"name\":\"XR Relay\"},{\"name\":\"Gate Up\"},{\"name\":\"Gate Down\"},{\"name\":\"AC Power\"},{\"name\":\"Island\"},{\"name\":\"Misc Alarm\"},{\"name\":\"Ground Fault\"}]",
+            "item": "Crossing Config",
+            "item_id": "22f5c82e-4137-4175-8281-3a42dff362b0",
+            "type": "Crossing"
+        },
+        {
+            "category": "Signal",
+            "display_attributes": "[{  \"name\": \"LED1\",  \"address\": \"0\"}, {  \"name\": \"LED2\",  \"address\": \"1\"}, {  \"name\": \"LED3\",  \"address\": \"2\"}, {  \"name\": \"LED4\",  \"address\": \"3\"}, {  \"name\": \"LED5\",  \"address\": \"4\"}, {  \"name\": \"Buzzer\",  \"address\": \"5\"}, {  \"name\": \"Smart Mode\",  \"address\": \"6\"}, {  \"name\": \"Clear\",  \"address\": \"7\"}, {  \"name\": \"Mute\",  \"address\": \"8\"}, {  \"name\": \"Stop\",  \"address\": \"9\"}, {  \"name\": \"Pulse Trigger Input\",  \"address\": \"10\"}]",
+            "item": "Patlite LA6-POE",
+            "item_id": "93913515-8858-4980-8516-6b8f4db7b05a",
+            "type": "StackLight"
+        },
+        {
+            "category": "Bungalow",
+            "display_attributes": "[{\"name\":\"Temp\",\"comp\":65600,\"scaler\":500},{\"name\":\"DC volts\",\"comp\":65600,\"scaler\":4300,\"max\":13.5,\"min\":11.9},{\"name\":\"AC volts\",\"comp\":65600,\"scaler\":450},{\"name\":\"ah\",\"comp\":65600,\"scaler\":32},{\"name\":\"max mah\",\"comp\":-65600,\"scaler\":20},{\"name\":\"min mah\",\"comp\":-65600,\"scaler\":100}]",
+            "item": "Power Details",
+            "item_id": "ebd689d9-6e14-4401-9d30-a5e20a36bb6f",
+            "type": "Power"
+        }
+    ],
+    "name": "device_profiles",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "category",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "item",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "display_attributes",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
