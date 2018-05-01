@@ -1,0 +1,57 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "ecc8b5ac0b9cd1a7aeddc4cdddc301",
+    "items": [],
+    "name": "rail_crossings",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "crossing_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "railroad",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "rrdiv",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "rrsubdiv",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "street",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "milepost",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "latitude",
+            "ColumnType": "double",
+            "PK": false
+        },
+        {
+            "ColumnName": "longitude",
+            "ColumnType": "double",
+            "PK": false
+        }
+    ]
+}
