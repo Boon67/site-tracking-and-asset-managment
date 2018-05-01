@@ -1,0 +1,13 @@
+{
+    "current_version": 15,
+    "dependencies": "clearblade,globals,log,qLib",
+    "logging_enabled": "false",
+    "name": "sys_firmware",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sys_firmware.js"
+}
