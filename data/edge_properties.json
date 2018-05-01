@@ -1,0 +1,93 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "90f3afad0b80c4ea83daa3abbb0d",
+    "items": [
+        {
+            "attributes": "null",
+            "data": null,
+            "device_address": "192.168.1.240",
+            "device_name": "ioLogik E1241",
+            "edgename": "vmEdge2",
+            "fw_version": null,
+            "item_id": "0bb24584-e12e-4e8f-b863-575b284afd0d"
+        },
+        {
+            "attributes": "{}",
+            "data": null,
+            "device_address": "192.168.1.241",
+            "device_name": "ioLogik E1242-1",
+            "edgename": "piEdge1",
+            "fw_version": null,
+            "item_id": "1a188367-fabe-4410-829d-3b20b564ccb0"
+        },
+        {
+            "attributes": "null",
+            "data": null,
+            "device_address": "192.168.1.240",
+            "device_name": "ioLogik E1240",
+            "edgename": "vmEdge1",
+            "fw_version": "2.5.1",
+            "item_id": "49306026-e3ad-433c-85be-2052b11baef6"
+        },
+        {
+            "attributes": "{}",
+            "data": null,
+            "device_address": "192.168.1.240",
+            "device_name": "BatteryBank",
+            "edgename": "moxa8100",
+            "fw_version": null,
+            "item_id": "bd33f28f-63c9-4651-825a-edc2606d6e54"
+        },
+        {
+            "attributes": "{\"UNITID\":0,\"COILS_ADDR\":0,\"COILS_LENGTH\":4,\"INPUTS_ADDR\":0,\"INPUTS_LENGTH\":4,\"INPUT_REGISTERS_ADDR\":512,\"INPUT_REGISTERS_LENGTH\":4}",
+            "data": null,
+            "device_address": "192.168.1.241",
+            "device_name": "ioLogik E1242",
+            "edgename": "moxa8100",
+            "fw_version": null,
+            "item_id": "cb18290d-ad75-45f9-855f-d7685b22d5de"
+        }
+    ],
+    "name": "edge_properties",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "edgename",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_address",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "attributes",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "data",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "fw_version",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
