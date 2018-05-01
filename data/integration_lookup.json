@@ -1,0 +1,45 @@
+{
+    "app_id": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "collection_id": "9ac08daa0bc6cb9cef8dcbf8f852",
+    "items": [
+        {
+            "device_group": "group 1",
+            "edgeid": "piEdge1",
+            "item_id": "a5495645-698e-430e-acd6-26da3e55fc43",
+            "location_uuid": "3c9dcac3-bdb6-4c20-8cb5-b710b2b00bd4"
+        },
+        {
+            "device_group": "group 1",
+            "edgeid": "moxa8100",
+            "item_id": "c11c3faf-fe57-47de-8890-8dea72518812",
+            "location_uuid": "444dcac3-bdb6-4c20-8cb5-b710b2b00bd4"
+        }
+    ],
+    "name": "integration_lookup",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 1
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "location_uuid",
+            "ColumnType": "uuid",
+            "PK": false
+        },
+        {
+            "ColumnName": "edgeid",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "device_group",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
