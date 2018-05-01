@@ -1,0 +1,12 @@
+{
+    "current_version": 128,
+    "dependencies": "clearblade,log,qLib,globals",
+    "logging_enabled": "true",
+    "name": "_processResponseMessages",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "_processResponseMessages.js"
+}
