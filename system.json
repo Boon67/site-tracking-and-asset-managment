@@ -1,0 +1,139 @@
+{
+    "auth": true,
+    "deployments": [
+        {
+            "assets": [
+                {
+                    "asset_class": "libraries",
+                    "asset_id": "globals",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "Discrete_Output_Coils",
+                    "asset_id": "",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "modbus_Inputs",
+                    "asset_id": "",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "modbus_inputregister",
+                    "asset_id": "",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "libraries",
+                    "asset_id": "qLib",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "services",
+                    "asset_id": "_clearMessageQueues",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "services",
+                    "asset_id": "testLight",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "services",
+                    "asset_id": "_requestDeviceData",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "services",
+                    "asset_id": "_processResponseMessages",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "devices",
+                    "asset_id": "",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "temp",
+                    "asset_id": "",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "adaptors",
+                    "asset_id": "modbusAdapter",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "adaptors",
+                    "asset_id": "edgeAdapter",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "edge_properties",
+                    "asset_id": "",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                },
+                {
+                    "asset_class": "device_data",
+                    "asset_id": "",
+                    "deployment": "modBus Monitoring System",
+                    "member": "modBus Monitoring System_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "",
+            "edges": [
+                "moxa8100"
+            ],
+            "name": "modBus Monitoring System"
+        },
+        {
+            "assets": [
+                {
+                    "asset_class": "adaptors",
+                    "asset_id": "edgeAdapter",
+                    "deployment": "FirmwareUpdate",
+                    "member": "FirmwareUpdate_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "",
+            "edges": [],
+            "name": "FirmwareUpdate"
+        }
+    ],
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "Rail Crossing System",
+    "platform_url": "https://presales.clearblade.com",
+    "system_key": "96bbb7a90ba88fa5b1b2a3e6b07d",
+    "system_secret": "96BBB7A90BCCF5A3E3C6C283993F"
+}
