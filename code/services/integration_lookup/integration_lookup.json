@@ -1,0 +1,15 @@
+{
+    "current_version": 78,
+    "dependencies": "clearblade,log,globals,qLib",
+    "logging_enabled": "false",
+    "name": "integration_lookup",
+    "params": [
+        "edgeid"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "integration_lookup.js"
+}
