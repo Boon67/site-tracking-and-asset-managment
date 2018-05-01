@@ -1,0 +1,13 @@
+{
+    "current_version": 10,
+    "dependencies": "clearblade,log,qLib,globals",
+    "logging_enabled": "true",
+    "name": "device_data_historian",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "device_data_historian.js"
+}
