@@ -1,0 +1,14 @@
+{
+    "current_version": 11,
+    "dependencies": "clearblade,log,qLib",
+    "logging_enabled": "false",
+    "name": "edge_properties",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Anonymous": 0,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "edge_properties.js"
+}
