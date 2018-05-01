@@ -1,0 +1,14 @@
+{
+    "assets": [
+        {
+            "asset_class": "adaptors",
+            "asset_id": "edgeAdapter",
+            "deployment": "FirmwareUpdate",
+            "member": "FirmwareUpdate_deployment_edge_group",
+            "sync": true
+        }
+    ],
+    "description": "",
+    "edges": [],
+    "name": "FirmwareUpdate"
+}
